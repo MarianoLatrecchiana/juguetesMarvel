@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Aironman",
+    "precio": 10000,
+    "img": "./img/aironman.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Capitan America",
+    "precio": 12000,
+    "img": "./img/capitanamerica.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Capitana Marvel",
+    "precio": 12500,
+    "img": "./img/capitanamarvel.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Flash",
+    "precio": 15000,
+    "img": "./img/flash.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Hulk",
+    "precio": 18000,
+    "img": "./img/hulk.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "SpiderMan",
+    "precio": 20000,
+    "img": "./img/spiderman.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "SpiderMan Black",
+    "precio": 21500,
+    "img": "./img/spidermanblack.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Thor",
+    "precio": 25000,
+    "img": "./img/thor.jpg",
+    "cantidad": 1
+  }
+]
